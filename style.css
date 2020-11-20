@@ -1,0 +1,65 @@
+body{
+	background-color: #ffffff;
+}
+
+#main_display{
+	width: 900px;
+	background-color: #ffffff;
+	
+	/*make sure div is centered aligned */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding: 10px;
+}
+
+#header{
+	height: 100px;
+	background-color: #FF5E33;
+	padding: 20px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#footer{
+	text-align: center;
+	margin-top: 10px;
+}
+#footer{
+	height: 30px;
+	background-color: #FF5E33;
+	text-align: center;
+	color: #ffffff;
+}
+
+#company_name{
+	font-size: 60px;
+}
+
+#slogan{
+	font-size: 20px;
+}
+
+#menu{
+	margin-top:10px;
+	margin-bottom:10px;
+	height: 35px;
+	background-color: #FF5E33;
+}
+
+#menu a{
+	margin-top:20px;
+	margin-left: 10px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#menu_top{
+	background-color: #FF5E33;
+	height: 8px;
+}
+
+h1{
+	color: #FF5E33;
+}
